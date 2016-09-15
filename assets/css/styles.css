@@ -1,15 +1,15 @@
-#profile{
+#profile {
   text-align:center;
 }
 
-#logo{
+#logo {
   max-height:42px;
   margin-right:10px;
   margin-top:-8px;
   display:inline-block;
 }
 
-#promo{
+#promo {
   text-align:center;
   padding:40px;
   background:url(../../assets/img/banner.jpg) no-repeat;
@@ -17,7 +17,7 @@
   margin-top:50px;
 }
 
-div.jumbotron{
+div.jumbotron {
   border-radius:20px;
   padding:40px;
   background-color:rgba(255,255,255,0.5);
@@ -25,65 +25,65 @@ div.jumbotron{
   margin:0 auto;
 }
 
-body{
+body {
   font-family:Arial,Helvetica,sans-serif;
 }
 
-.site-section{
+.site-section {
   text-align:center;
   padding-bottom:70px;
 }
 
-.site-section h1{
+.site-section h1 {
   font-weight:normal;
   margin-bottom:30px;
   margin-top:60px;
 }
 
-#why .item i{
+#why .item i {
   font-size:40px;
   color:rgb(245,145,30);
 }
 
-#welcome p{
+#welcome p {
   max-width:800px;
   font-size:20px;
   margin:0 auto;
   color:#666;
 }
 
-#why .item h2{
+#why .item h2 {
   font-weight:normal;
   margin-top:13px;
   margin-bottom:20px;
   font-size:20px;
 }
 
-.dark-section{
+.dark-section {
   background-color:#e6effc;
 }
 
-#head-portrait{
+#head-portrait {
   max-height:30px;
   margin-right:3px;
   margin-top:-8px;
   display:inline-block;
 }
 
-#ranking-content{
+#ranking-content {
   margin-top:-35px;
 }
 
-#search-form{
+#search-form {
   margin-bottom:4px;
 }
 
-.search-condition{
+.search-condition {
   display:inline-block;
   margin-right:30px;
 }
 
-#check-boxes{
-  margin-left:30%;
+#check-boxes {
+  text-align:center;
 }
 
